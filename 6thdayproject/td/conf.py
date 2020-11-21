@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'E-commerce project using Java'
-copyright = '2020, Harideep'
-author = 'Harideep'
+project = 'security of smart phone and cloud computing authentication frameworks and protocols'
+copyright = '2020, Ankadala.pavankumar'
+author = 'ankadala pavankumar'
 
 # The full version, including alpha/beta/rc tags
 release = ''
